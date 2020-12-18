@@ -1,4 +1,4 @@
-###USAGE: 
+### USAGE: 
 
 Clone or download the repo and run `sh dayx-y.sh` for a specified day `x` and part `y`.
 
